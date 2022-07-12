@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println("Introduceti primul numar :");   // test comment
         int a = scanner.nextInt();
-        System.out.println("Introduceti al2lea numar :");
+        System.out.println("Introduceti al2lea numar :");   // comm test 222222
         int b = scanner.nextInt();
 
         if (a < b) {
