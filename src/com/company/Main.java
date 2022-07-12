@@ -9,7 +9,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Introduceti primul numar :");
+        System.out.println("Introduceti primul numar :");   // test comment
         int a = scanner.nextInt();
         System.out.println("Introduceti al2lea numar :");
         int b = scanner.nextInt();
